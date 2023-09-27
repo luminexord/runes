@@ -1,6 +1,4 @@
-
-
-# Luminex Rune Implementation by Rodarmor
+# Runes Protocol
 
 
 ![Luminex Introduces Rune Issuance Tool: Seamless Effortless Rune Token Creation on Bitcoin](./images/Luminex-Runes.png)
